@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Samacaca Investimentos</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Bem-vindo ao Samacaca Investimentos</h1>
+    <p>Invista com segurança e colha os frutos do seu dinheiro em grupo.</p>
+    <a href="cadastro.html">Entrar</a>
+</body>
+</html>
